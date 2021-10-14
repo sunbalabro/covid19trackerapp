@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 10px;
+}
+.crnum h2{
+    font-size: 30px;
+}
+.wrh > h1{
+    text-align: center;
+    font-size: 40px;
+}
+.ph > h1{
+  margin-top: 180px;
+  margin-bottom: 100px;
+  text-align: center;
+  font-size: 40px;
+}
